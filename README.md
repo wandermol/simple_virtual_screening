@@ -1,4 +1,4 @@
-# simple virtual screening
+# Simple virtual screening
 ## A simple python script for ligand-based virtual screening
 
 virtual_screening.py is a simple python script that I wrote to run ligand-based virtual screening calculations.
