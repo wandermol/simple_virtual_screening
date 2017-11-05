@@ -5,7 +5,7 @@ virtual_screening.py is a simple python script that I wrote to run ligand-based 
 
 **The purpose of this script is limited to exercise python. For extensively tested tools, please, consult specialized scientific literature.**
 
-Given a reference set and and a database of small molecule sencoded in fingerprints, the script computes a similarity (or distance) measure and returns the ranked database.
+Given a reference set and a database of small molecules encoded in fingerprints, the script computes a similarity (or distance) measure and returns the ranked database.
 
 The script can compute rankings based on one of three different similarity measures: 
 
